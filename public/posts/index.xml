@@ -7,5 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Jul 2025 10:34:16 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 19 Jul 2025 10:34:16 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;DAJE ROMA DAYE&lt;/p&gt;</description>
+      <content>&lt;p&gt;DAJE ROMA DAYE&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

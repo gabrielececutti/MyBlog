@@ -1,6 +1,8 @@
 baseURL = "/"
 theme = "re-terminal"
 
+languageCode = "en-us"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
