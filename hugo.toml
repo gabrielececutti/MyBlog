@@ -1,3 +1,2 @@
 baseurl = "/"
-# Remove it if you use the theme as a remote Hugo Module.
 languageCode = "en-us"
