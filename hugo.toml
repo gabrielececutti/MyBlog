@@ -1,7 +1,6 @@
-baseurl = "http://gabrielececutti.github.io/MyBlog/"
+baseURL = "https://gabrielececutti.github.io/MyBlog/"
+theme = "re-terminal"
 
-[markup.goldmark.renderHooks.image]
-enableDefault = true
-
-[markup.goldmark.renderHooks.link]
-enableDefault = true
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
